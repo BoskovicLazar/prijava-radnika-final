@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "lazar",
+    "password": "lazar",
+    "database": "lazar_prijava_radnika",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "lazar",
+    "password": "lazar",
+    "database": "lazar_prijava_radnika",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "lazar",
+    "password": "lazar",
+    "database": "lazar_prijava_radnika",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
